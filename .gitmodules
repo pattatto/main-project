@@ -1,0 +1,3 @@
+[submodule "subo-project"]
+	path = subo-project
+	url = git@github.com:pattatto/subo-project.git
